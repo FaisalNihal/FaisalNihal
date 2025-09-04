@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**FaisalNihal/FaisalNihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Faisal Nihal 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Data Analyst** with experience in analyzing, visualizing, and transforming data to drive actionable insights. I have worked on projects across **FMCG, Healthcare, and E-commerce**, leveraging tools like **Python, SQL, Power BI, and Snowflake**.  
+
+My passion lies in **turning complex datasets into clear, interactive dashboards** and providing insights that support strategic decision-making. I enjoy exploring data, automating processes, and creating projects that showcase real-world business solutions.  
+
+💼 Check out my LinkedIn: [Faisal Bin Forhad ](https:/inkedin.com/in/faisalbinforhad)  
+📂 Explore my projects here on GitHub to see my work in **data analysis, visualization, and automation**.  
+
+---
+
+### Skills & Tools
+- **Data Analysis:** Python (Pandas, NumPy), SQL, Excel  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn, Tableau  
+- **Data Engineering:** Snowflake, BigQuery, ETL pipelines  
+- **Other Tools:** Git, Jupyter Notebook, APIs  
+
+---
+
+### Let's Connect!
+I'm always looking to collaborate on **data-driven projects** or share insights with fellow analysts. Feel free to reach out via LinkedIn!
