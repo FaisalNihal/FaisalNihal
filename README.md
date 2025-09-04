@@ -6,7 +6,7 @@ I'm a **Data Analyst** with experience in analyzing, visualizing, and transformi
 
 My passion lies in **turning complex datasets into clear, interactive dashboards** and providing insights that support strategic decision-making. I enjoy exploring data, automating processes, and creating projects that showcase real-world business solutions.  
 
-💼 Check out my LinkedIn: [Faisal Bin Forhad ](https:/inkedin.com/in/faisalbinforhad)  
+💼 Check out my LinkedIn: [Faisal Bin Forhad ](https://linkedin.com/in/faisalbinforhad)  
 📂 Explore my projects here on GitHub to see my work in **data analysis, visualization, and automation**.  
 
 ---
