@@ -13,11 +13,12 @@ My passion lies in **turning complex datasets into clear, interactive dashboards
 
 ### Skills & Tools
 - **Data Analysis:** Python (Pandas, NumPy), SQL, Excel  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn, Tableau  
-- **Data Engineering:** Snowflake, BigQuery, ETL pipelines  
-- **Other Tools:** Git, Jupyter Notebook, APIs  
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Metabase  
+- **Statistical Analysis:** A/B Testing, Regression Analysis, Forecasting, K-means Clustering, Cohort Analysis  
+- **Data Engineering / Warehousing:** Snowflake, Google BigQuery, MySQL, ETL pipelines  
+- **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Fabric  
 
----
+  
 
 ### Let's Connect!
 I'm always looking to collaborate on **data-driven projects** or share insights with fellow analysts. Feel free to reach out via LinkedIn!
